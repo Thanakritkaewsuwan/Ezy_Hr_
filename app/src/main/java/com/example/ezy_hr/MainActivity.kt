@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Ezy_hrTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "App version 1.0",
+                        name = "App version 1.1",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
